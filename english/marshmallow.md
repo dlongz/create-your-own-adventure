@@ -1256,16 +1256,10 @@ What is your [passion?](passion/passion.md)
 
 -
 
-<<<<<<< HEAD
-searching for [good](tvf-play/watch.md) content.
-
-5 Years later and it seems that Ironman was right afterall. . .[EndGame](endgame/i-am-ironman.md)
-||||||| merged common ancestors
-searching for [good](tvf-play/watch.md) content.
-=======
 searching for [good](tvf-play/watch.md) content.
 
 Do you like [tigers](tiger/tiger.md)?
 
 [Travel the world!](travel/destinations.md)
->>>>>>> 71fc5663fefdba57428d26798fa9da4571494172
+
+5 Years later and it seems that Ironman was right afterall. . .[EndGame](endgame/i-am-ironman.md)
